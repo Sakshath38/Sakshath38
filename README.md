@@ -46,6 +46,7 @@ Business Intelligence - Machine learning -  Project Management -  Stakeholder Ma
 - **75% improvement** in inter-departmental collaboration by building systematic Notion workflows
 - **25,000+ attendees** managed for MES'25 entrepreneurship event
 - **200 team members** onboarded to comprehensive Notion system in just 15 days
+- **Data Driven Marketing Campaign** which combine Data, Marketing, and Automation 
 
 ---
 
