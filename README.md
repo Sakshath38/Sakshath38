@@ -15,17 +15,17 @@ Python (Pandas, NumPy) -  SQL -  Statistical Analysis -  Data Cleaning & Wrangli
 
 **Visualization & BI**
 ```
-Power BI -  Advanced Excel -  Matplotlib -  Seaborn -  Canva
+Matplotlib -  Seaborn -  Canva
 ```
 
 **Development & Other Tools**
 ```
-JavaScript -  C++ -  Data Scraping -  Notion (I'm obsessed!)
+Make.com - Data Scraping -  Notion (I'm obsessed!)
 ```
 
 **Core Competencies**
 ```
-Business Intelligence - Machine learning -  Project Management -  Stakeholder Management -  Marketing
+Machine learning - Data Analysis - Marketing - Business Intelligence -  Project Management -  Stakeholder Management 
 ```
 
 ---
